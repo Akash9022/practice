@@ -1,5 +1,5 @@
 num1 = 1.5
-num2 = 8.2
+num2 = 8.2   #add new value
 
 # Add two numbers
 sum = num1 + num2
